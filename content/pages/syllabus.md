@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: ''
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
