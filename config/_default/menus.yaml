@@ -1,9 +1,5 @@
 leftnav:
-- identifier: 89dab3cd-a2de-f3f8-2d0a-0fbe5bb55f17
-  name: Syllabus
-  url: /pages/syllabus
-  weight: 10
-- identifier: external-155d31f3900b4ac08bd77605924966a4
+- identifier: external-74a074dbb67d405d8c2eba780678eb4b
   name: Online Publication
   url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about
-  weight: 1000
+  weight: 10
